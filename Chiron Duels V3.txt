@@ -777,7 +777,7 @@ local function ResetProgressBar()
     if ProgressBarFill then ProgressBarFill.Size = UDim2.new(0, 0, 1, 0) end
 end
 
-local CHIRON_TEXT = "Chiron Duels"
+local CHIRON_TEXT = "nigger Duels"
 local function getChironProgress(percent)
     local total = #CHIRON_TEXT
     local adjusted = math.min(percent * 1.5, 100)
@@ -930,7 +930,7 @@ if CoreGui:FindFirstChild("ChironDuels") then
 end
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "ChironDuels"
+ScreenGui.Name = "niggerDuels"
 ScreenGui.ResetOnSpawn = false
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 ScreenGui.Parent = CoreGui
